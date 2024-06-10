@@ -1,7 +1,7 @@
 # BOT GRASS AUTO FARMING
 
 # Register
-- https://app.getgrass.io/register/?referralCode=AYtNN0N1D0pzSCc
+- https://app.getgrass.io/register/?referralCode=PAsOEomBR6lr6Ab
 
 # Command
 - pip install -r requirements.txt
